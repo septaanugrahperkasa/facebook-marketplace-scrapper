@@ -39,10 +39,9 @@ const input = {
             if (offset >= total) break;
         }
 
-        // Filter hasil berdasarkan lokasi yang lebih spesifik
+        // Filter hasil berdasarkan lokasi Jakarta
         const filteredItems = allItems.filter(item => {
             const location = item.location?.reverse_geocode?.city_page?.display_name || '';
-            // Mengizinkan lokasi seperti "Jakarta", "Jakarta Selatan", "Jakarta Utara", dll.
             return location.toLowerCase().includes('jakarta');
         });
 
