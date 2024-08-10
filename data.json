@@ -1,0 +1,41 @@
+[
+  {
+    facebookUrl: 'https://www.facebook.com/marketplace/jakarta/search?daysSinceListed=30&itemCondition=new&query=iphone&exact=false',
+    listingUrl: 'https://www.facebook.com/marketplace/item/334889126361503',
+    id: '334889126361503',
+    primary_listing_photo: {
+      __typename: 'ProductImage',
+      id: '526814689797073',
+      photo_image_url: 'https://scontent-ord5-2.xx.fbcdn.net/v/t45.5328-4/454547248_526814693130406_1699995086018073669_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260&_nc_cat=105&ccb=1-7&_nc_sid=247b10&_nc_ohc=Y4pkrMpEmp0Q7kNvgGNdkjC&_nc_ht=scontent-ord5-2.xx&oh=00_AYAg_bPadu-8jc7szyzvTeuNC5xctHD8VDpChvdfYB16Pg&oe=66BD2F8B'
+    },
+    listing_price: {
+      formatted_amount: 'IDR850',
+      amount_with_offset_in_currency: '5',
+      amount: '850'
+    },
+    strikethrough_price: null,
+    comparable_price: null,
+    comparable_price_type: null,
+    location: { reverse_geocode: [Object] },
+    is_hidden: false,
+    is_live: true,
+    is_pending: false,
+    is_sold: false,
+    is_viewer_seller: false,
+    min_listing_price: null,
+    max_listing_price: null,
+    marketplace_listing_category_id: '1557869527812749',
+    marketplace_listing_title: 'iPhone xr 128 gb',
+    custom_title: null,
+    custom_sub_titles_with_rendering_flags: [],
+    origin_group: null,
+    listing_video: null,
+    parent_listing: null,
+    marketplace_listing_seller: {
+      __typename: 'User',
+      name: 'Riska Isnaini',
+      id: 'pfbid033cfGb4RJyEf7aJ4TAx8wpFz3Q1csfHbp6s7k281Fz8fLVbwwVr89u575QTaXQLEbl'
+    },
+    delivery_types: [ 'IN_PERSON' ]
+  }
+]
